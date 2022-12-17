@@ -17,7 +17,7 @@
  
  + environment.yml: Conda environment that needs to be activated to run MultiChipViewer
  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
  
 ## Instructions to Install MultiChipViewer
  
@@ -46,6 +46,8 @@ streamlit run main.py
 ```
 
 In the web-application that loads, users can specify names of experimental conditions of interest. Users can then load datasets into the experimental conditions.
+
+---------------------------------------
 
 
 ## What code I wrote vs what code is from another package
