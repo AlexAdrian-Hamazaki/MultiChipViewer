@@ -1,0 +1,4 @@
+name: VisProject
+channels:
+  - defaults
+prefix: /home/aadrian/anaconda3/envs/VisProject
