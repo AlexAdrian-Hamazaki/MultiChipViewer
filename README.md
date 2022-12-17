@@ -1,7 +1,7 @@
 # MultiChipViewer
 ## A Tool to Visualize ChIP-seq and ATAC-seq Data from Multiple Experimental Conditions
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 
 ## Overview of Repository
 
