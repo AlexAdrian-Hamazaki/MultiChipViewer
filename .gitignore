@@ -1,0 +1,8 @@
+bin/__pycache__/
+data/Example1_Mecp2KO/
+data/Example2_PrefrontalCortex/
+data/MouseForebrain/
+data/MouseLiver/
+data/raw_datas/
+gos/
+.vscode/
